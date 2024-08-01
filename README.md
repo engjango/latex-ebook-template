@@ -1,6 +1,6 @@
 # Latex e-Book Template (Carauman)
 
-Pequeno odelo de e-book em LaTeX, chamado "Carauman", projetado que fiz para criar livros eletrônicos de alta qualidade. Este modelo oferece uma estrutura fácil de usar e personalizável para diversos tipos de publicações.
+Pequeno modelo de e-book em LaTeX, chamado "Carauman", projetado que fiz para criar livros eletrônicos de alta qualidade. Este modelo oferece uma estrutura fácil de usar e personalizável para diversos tipos de publicações.
 
 Small LaTeX e-book template called "Carauman" designed I made to create high-quality e-books. This template offers an easy-to-use and customizable structure for different types of posts.
 
