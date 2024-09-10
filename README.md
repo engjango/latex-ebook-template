@@ -6,6 +6,8 @@
 
 "Carauman" is a LaTeX e-book template designed to provide an elegant and refined reading experience. It includes a modular structure that allows customization of chapters, introductory sections, and auxiliary elements such as bibliography and glossary. With carefully selected typography and a harmonious visual aesthetic, this template is ideal for authors who want to publish their works in a professional and aesthetically pleasing way.
 
+URL: https://pt.overleaf.com/latex/templates/carauma/pjksmbfyrnkr
+
 ![Screenshot ebook](https://raw.githubusercontent.com/engjango/latex-ebook-template/main/screenshot-ebook.png)
 
 ## Estrutura do Projeto
