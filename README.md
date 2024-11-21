@@ -1,34 +1,90 @@
-# Modelo de e-Book em LaTeX (Carauman)
+# Carauman: Professional LaTeX eBook Template 📘✨
 
-"Carauman" é um modelo de e-book em LaTeX projetado para proporcionar uma experiência de leitura elegante e refinada. Ele inclui uma estrutura modular que permite a personalização de capítulos, seções introdutórias, e elementos auxiliares como bibliografia e glossário. Com uma tipografia cuidadosamente selecionada e uma estética visual harmoniosa, este modelo é ideal para autores que desejam publicar suas obras de maneira profissional e esteticamente agradável.
+[🇺🇸 English](#english-version) | [🇧🇷 Português](#versão-em-português)
 
-# Latex e-Book Template (Carauman)
+## English Version
 
-"Carauman" is a LaTeX e-book template designed to provide an elegant and refined reading experience. It includes a modular structure that allows customization of chapters, introductory sections, and auxiliary elements such as bibliography and glossary. With carefully selected typography and a harmonious visual aesthetic, this template is ideal for authors who want to publish their works in a professional and aesthetically pleasing way.
+### 🚀 Transform Your Writing into a Professional Publication
 
-URL: https://pt.overleaf.com/latex/templates/carauma/pjksmbfyrnkr
+**Carauman** is not just a LaTeX template—it's your gateway to publishing stunning, professionally designed eBooks with minimal effort.
 
-![Screenshot ebook](https://raw.githubusercontent.com/engjango/latex-ebook-template/main/screenshot-ebook.png)
+#### ✨ Key Features
+- **Modular Design**: Easily customize chapters, sections, and auxiliary elements
+- **Elegant Typography**: Carefully curated visual aesthetic
+- **Professional Layout**: Designed for serious authors and publishers
+- **Multilingual Support**: Ready for international publishing
 
-## Estrutura do Projeto
+#### 🔧 Quick Start
+```bash
+# Clone the repository
+git clone https://github.com/engjango/latex-ebook-template.git
 
-- **content/**: Contém os capítulos e seções do e-book.
-- **frontmatter/**: Inclui elementos introdutórios, como capa e prefácio.
-- **misc/**: Arquivos auxiliares, como bibliografia e glossário.
-- **main.tex**: Arquivo principal que compila o e-book.
-- **screenshot-ebook.png**: Exemplo de visualização do e-book.
+# Navigate to project directory
+cd latex-ebook-template
 
-## Como Usar
+# Start customizing your eBook!
+```
 
-1. Clone o repositório: `git clone https://github.com/engjango/latex-ebook-template.git`
-2. Navegue até o diretório: `cd latex-ebook-template`
-3. Edite os arquivos conforme necessário.
-4. Compile o e-book usando seu compilador LaTeX preferido.
+#### 📂 Project Structure
+- `content/`: Chapter and section files
+- `frontmatter/`: Introduction elements (cover, preface)
+- `misc/`: Supplementary files (bibliography, glossary)
+- `main.tex`: Primary compilation file
 
-## Licença
+#### 🌟 Why Carauman?
+- Save hours of formatting time
+- Professional-grade design
+- Fully customizable
+- Open-source and free to use
 
-Este projeto é licenciado sob a [MIT License](LICENSE).
+#### 📸 Preview
+![Carauman eBook Template](https://raw.githubusercontent.com/engjango/latex-ebook-template/main/screenshot-ebook.png)
 
-## Copyright
+#### 🔗 Online Template
+[View on Overleaf](https://pt.overleaf.com/latex/templates/carauma/pjksmbfyrnkr)
 
-2024 (C) Janderson Gomes <artientista.blogspot.com> | <carauman.blogspot.com>
+---
+
+## Versão em Português
+
+### 🚀 Transforme Sua Escrita em uma Publicação Profissional
+
+**Carauman** não é apenas um template LaTeX—é seu portal para publicar e-Books deslumbrantes com design profissional e esforço mínimo.
+
+#### ✨ Recursos Principais
+- **Design Modular**: Personalize capítulos, seções e elementos auxiliares
+- **Tipografia Elegante**: Estética visual cuidadosamente selecionada
+- **Layout Profissional**: Projetado para autores e editoras sérios
+- **Suporte Multilíngue**: Pronto para publicação internacional
+
+#### 🔧 Início Rápido
+```bash
+# Clone o repositório
+git clone https://github.com/engjango/latex-ebook-template.git
+
+# Navegue para o diretório do projeto
+cd latex-ebook-template
+
+# Comece a personalizar seu e-Book!
+```
+
+#### 📂 Estrutura do Projeto
+- `content/`: Arquivos de capítulos e seções
+- `frontmatter/`: Elementos introdutórios (capa, prefácio)
+- `misc/`: Arquivos suplementares (bibliografia, glossário)
+- `main.tex`: Arquivo de compilação principal
+
+#### 🌟 Por Que Carauman?
+- Economize horas de formatação
+- Design de nível profissional
+- Totalmente personalizável
+- Código aberto e gratuito
+
+#### 🔗 Template Online
+[Ver no Overleaf](https://pt.overleaf.com/latex/templates/carauma/pjksmbfyrnkr)
+
+### 📜 License
+[MIT License](LICENSE)
+
+### 📝 Copyright
+2024 © Janderson Gomes | [Artientista Blog](https://artientista.blogspot.com) | [Carauman Blog](https://carauman.blogspot.com)
