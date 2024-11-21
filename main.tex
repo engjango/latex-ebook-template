@@ -1,48 +1,48 @@
-% Caraumã book template by @jndgomes
-% 2024 (c) Janderson Gomes
-% See more <artientista.blogspot.com> or <carauman.blogspot.com>
+% Carauman Book Template
+% Official LaTeX Template for Professional Publishing
+% Version 1.0 - 2024
+% Created by Janderson Gomes
+% Learn more at: artientista.blogspot.com | carauman.blogspot.com
 
-% paper size is in preamble.sty
+% Document class definition with optimal typesetting
 \documentclass[12pt,openany]{book} 
 
-% Definindo proporção áurea
+% Define golden ratio for aesthetic proportions
 \newcommand{\goldenratio}{1.618}
 
-% Codificação de entrada e saída
+% Input and output encoding for multilingual support
 \usepackage[T1]{fontenc}
 
-% Informações do livro
+% Book metadata configuration
 \newcommand{\authorname}{Janderson Gomes}
 \newcommand{\translatorname}{Vitória Régia}
-\newcommand{\booktitle}{Título do Meu Livro}
-\newcommand{\subtitle}{Subtítulo do meu livro}
-\newcommand{\publisher}{Caraumã}
+\newcommand{\booktitle}{Book Title}
+\newcommand{\subtitle}{Book Subtitle}
+\newcommand{\publisher}{Carauman Press}
 \newcommand{\editionyear}{2024}
 \newcommand{\isbn}{}
 \title{\booktitle}
 \author{\authorname}
 
-% Pacotes adicionais
+% Include additional configuration and styling packages
 \usepackage{misc/options}
 
 \begin{document}
+    % Front matter: Preliminary sections before main content
+    \frontmatter
+    \input{frontmatter/titlepage}      % Professional title page layout
+    \input{frontmatter/copyrightpage}  % Copyright and legal information
+    \input{frontmatter/preface}        % Author's preface or introduction
+    \input{frontmatter/tocpage}        % Comprehensive table of contents
 
-% Front matter
-\frontmatter
-\input{frontmatter/titlepage}      % Página de título
-\input{frontmatter/copyrightpage}  % Página de direitos autorais
-\input{frontmatter/preface}        % Prefácio
-\input{frontmatter/tocpage}        % Sumário
+    % Main content section
+    \mainmatter
+    \pagestyle{fancy}                  % Enhanced page styling for readability
 
-% Main matter
-\mainmatter
-\pagestyle{fancy}                  % Estilo de página fancy para o conteúdo principal
+    % Chapter content inputs
+    \input{content/chapter1}           % First chapter content
 
-% Conteúdo dos capítulos
-\input{content/chapter1}           % Capítulo 1
-
-% Back matter
-\backmatter
-\input{frontmatter/backpage}       % Página final (contracapa)
-
+    % Back matter: Supplementary sections after main content
+    \backmatter
+    \input{frontmatter/backpage}       % Back cover or additional information
 \end{document}
