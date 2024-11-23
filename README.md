@@ -84,7 +84,7 @@ cd latex-ebook-template
 [Ver no Overleaf](https://pt.overleaf.com/latex/templates/carauma/pjksmbfyrnkr)
 
 ### 📜 License
-[MIT License](LICENSE)
+[MIT License](LICENSE.md)
 
 ### 📝 Copyright
 2024 © Janderson Gomes | [Artientista Blog](https://artientista.blogspot.com) | [Carauman Blog](https://carauman.blogspot.com)
