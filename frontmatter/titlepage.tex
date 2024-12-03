@@ -27,9 +27,42 @@
     % Create intricate background circle pattern using nested loops and scaling
     \begin{scope}[shift={(current page.center)}, scale=1.0871]
         \foreach \x in {-20, -18, -16, -14, -12, -10, -8, -6, -4, -2, 0, 2, 4, 6, 8, 10, 12, 14, 16, 18} {
-            % Complex nested loop for creating circle patterns
-            % Variations in color, size, and positioning
-            % ... (original nested loop structure maintained)
+            \foreach \y in {-2, 2} {
+                \begin{scope}[shift={(\x + 1, \y)}]
+                    \foreach \r in {0.2, 0.4, 0.6, 0.8, 1.0} {
+                        \draw[thick, darkgray] (0,0) circle (\r);
+                    }
+                \end{scope}
+            }
+            \foreach \y in {-3, -1, 1, 3} {
+                \begin{scope}[shift={(\x, \y)}]
+                    \foreach \r in {0.2, 0.4} {
+                        \draw[thick, darkgray] (0,0) circle (\r);
+                    }
+                \end{scope}
+            }
+            \foreach \y in {-1, 1} {
+                \begin{scope}[shift={(\x, 0)}]
+                    \foreach \r in {0.2, 0.4, 0.6, 0.8, 1.0} {
+                        \draw[thick, customgold] (0,0) circle (\r);
+                        \fill[thick, customgold] (0,0) circle (\r);
+                    }
+                \end{scope}
+            }
+            \foreach \y in {-1, 1} {
+                \begin{scope}[shift={(\x, \y)}]
+                    \foreach \r in {0.2, 0.4, 0.6, 0.8, 1.0} {
+                        \fill[black] (0,0) circle (\r);
+                    }
+                \end{scope}
+            }
+            \foreach \y in {-1, 1} {
+                \begin{scope}[shift={(\x, \y)}]
+                    \foreach \r in {0.2, 0.4, 0.6, 0.8, 1.0} {
+                        \draw[thick, darkgray] (0,0) circle (\r);
+                    }
+                \end{scope}
+            }
         }
     \end{scope}
 
