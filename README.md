@@ -1,4 +1,4 @@
-# Carauman: Professional LaTeX eBook Template 📘✨
+# Caraumã: Professional LaTeX eBook Template 📘✨
 
 [🇺🇸 English](#english-version) | [🇧🇷 Português](#versão-em-português)
 
@@ -6,7 +6,7 @@
 
 ### 🚀 Transform Your Writing into a Professional Publication
 
-**Carauman** is not just a LaTeX template—it's your gateway to publishing stunning, professionally designed eBooks with minimal effort.
+**Caraumã** is not just a LaTeX template—it's your gateway to publishing stunning, professionally designed eBooks with minimal effort.
 
 #### ✨ Key Features
 - **Modular Design**: Easily customize chapters, sections, and auxiliary elements
@@ -31,14 +31,14 @@ cd latex-ebook-template
 - `misc/`: Supplementary files (bibliography, glossary)
 - `main.tex`: Primary compilation file
 
-#### 🌟 Why Carauman?
+#### 🌟 Why Caraumã?
 - Save hours of formatting time
 - Professional-grade design
 - Fully customizable
 - Open-source and free to use
 
 #### 📸 Preview
-![Carauman eBook Template](https://raw.githubusercontent.com/engjango/latex-ebook-template/main/screenshot-ebook.png)
+![Caraumã eBook Template](https://raw.githubusercontent.com/engjango/latex-ebook-template/main/screenshot-ebook.png)
 
 #### 🔗 Online Template
 [View on Overleaf](https://pt.overleaf.com/latex/templates/carauma/pjksmbfyrnkr)
@@ -49,7 +49,7 @@ cd latex-ebook-template
 
 ### 🚀 Transforme Sua Escrita em uma Publicação Profissional
 
-**Carauman** não é apenas um template LaTeX—é seu portal para publicar e-Books deslumbrantes com design profissional e esforço mínimo.
+**Caraumã** não é apenas um template LaTeX—é seu portal para publicar e-Books deslumbrantes com design profissional e esforço mínimo.
 
 #### ✨ Recursos Principais
 - **Design Modular**: Personalize capítulos, seções e elementos auxiliares
@@ -74,7 +74,7 @@ cd latex-ebook-template
 - `misc/`: Arquivos suplementares (bibliografia, glossário)
 - `main.tex`: Arquivo de compilação principal
 
-#### 🌟 Por Que Carauman?
+#### 🌟 Por Que Caraumã?
 - Economize horas de formatação
 - Design de nível profissional
 - Totalmente personalizável
@@ -87,4 +87,4 @@ cd latex-ebook-template
 [MIT License](LICENSE.md)
 
 ### 📝 Copyright
-2024 © Janderson Gomes | [Artientista Blog](https://artientista.blogspot.com) | [Carauman Blog](https://carauman.blogspot.com)
+2024 © Janderson Gomes | [Artientista Blog](https://artientista.blogspot.com) | [Caraumã Blog](https://Caraumã.blogspot.com)
